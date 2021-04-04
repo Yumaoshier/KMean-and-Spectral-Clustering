@@ -1,0 +1,75 @@
+{
+    "label": {
+        "colours": {
+            "dark_bg": "#0025292e",
+            "normal_text": "#c5cbd8"
+        },
+        "font": {
+            "name": "comic",
+            "size": "12",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "data/fonts/comic.ttf",
+            "bold_path": "data/fonts/comicbd.ttf",
+            "italic_path": "data/fonts/comici.ttf",
+            "bold_italic_path": "data/fonts/comicz.ttf"
+        }
+    },
+    "#1": {
+        "font": {
+            "name": "comic",
+            "size": "14",
+            "bold": "0",
+            "italic": "0",
+            "regular_path": "data/fonts/comic.ttf",
+            "bold_path": "data/fonts/comicbd.ttf",
+            "italic_path": "data/fonts/comici.ttf",
+            "bold_italic_path": "data/fonts/comicz.ttf"
+        }
+    },
+    "#2": {
+        "font": {
+            "name": "comic",
+            "size": "24",
+            "bold": "1",
+            "italic": "0",
+            "regular_path": "data/fonts/comic.ttf",
+            "bold_path": "data/fonts/comicbd.ttf",
+            "italic_path": "data/fonts/comici.ttf",
+            "bold_italic_path": "data/fonts/comicz.ttf"
+        }
+    },
+    "#3": {
+        "colours": {
+
+            "normal_text": "#B22222"
+
+        },
+        "font": {
+            "name": "comic",
+            "size": "18",
+            "bold": "0",
+            "italic": "0",
+            "regular_path": "data/fonts/comic.ttf",
+            "bold_path": "data/fonts/comicbd.ttf",
+            "italic_path": "data/fonts/comici.ttf",
+            "bold_italic_path": "data/fonts/comicz.ttf"
+        }
+    },
+    "button": {
+        "colours": {
+            "dark_bg": "#25292e",
+            "normal_text": "#c5cbd8"
+        },
+        "font": {
+            "name": "comic",
+            "size": "18",
+            "bold": "0",
+            "italic": "0",
+            "regular_path": "data/fonts/comic.ttf",
+            "bold_path": "data/fonts/comicbd.ttf",
+            "italic_path": "data/fonts/comici.ttf",
+            "bold_italic_path": "data/fonts/comicz.ttf"
+        }
+    }
+}
