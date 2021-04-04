@@ -1,5 +1,7 @@
 # KMean-and-Spectral-Clustering
 
+Youtube link: https://youtu.be/-CoACvoJNmk
+
 Model Data Set:
 Spectral Clustering:
 ![ModelDataSpectralClustering](https://user-images.githubusercontent.com/72455598/113518277-322a0f80-957d-11eb-95df-93cf5735aceb.jpg)
